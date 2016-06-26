@@ -17,7 +17,7 @@
     background: $vue-green
 
     .display-3
-      color: $vue-gray
+      color: $vue-grey
       text-decoration: none
       transition: color ease 200ms
       &:hover
